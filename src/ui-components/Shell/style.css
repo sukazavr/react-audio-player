@@ -1,0 +1,14 @@
+.shell {
+	min-height: 100vh;
+	justify-content: center;
+}
+
+.container {
+	width: 100%;
+	max-width: 800px;
+	padding: 20px 10px;
+}
+
+.section + .section {
+	margin-top: 30px;
+}
